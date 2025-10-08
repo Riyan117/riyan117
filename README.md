@@ -46,6 +46,18 @@ I'm a professional QA Engineer with a passion for ensuring software quality from
 
 ---
 
+### 🎓 Certifications & Achievements
+
+<p align="left">
+  <a href="https://www.istqb.org/" target="_blank"><img src="https://img.shields.io/badge/ISTQB-Certified%20Tester-006699?style=for-the-badge&logo=istqb&logoColor=white" alt="ISTQB Certified"></a>
+  <a href="https://www.postman.com/company/academy/" target="_blank"><img src="https://img.shields.io/badge/Postman-Academy%20Graduate-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Academy"></a>
+  <a href="https://about.gitlab.com/learn/" target="_blank"><img src="https://img.shields.io/badge/GitLab-University%20Graduate-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab University"></a>
+  <a href="https://katalon.com/academy/" target="_blank"><img src="https://img.shields.io/badge/Katalon-Academy%20Graduate-5C4B8C?style=for-the-badge&logo=katalon-studio&logoColor=white" alt="Katalon Academy"></a>
+  <a href="https://testautomationu.applitools.com/" target="_blank"><img src="https://img.shields.io/badge/Test%20Automation-University-9C27B0?style=for-the-badge&logo=applitools&logoColor=white" alt="Test Automation University"></a>
+</p>
+
+---
+
 ### 📫 How to Reach Me
 
 *   **LinkedIn:** [https://www.linkedin.com/in/riyan117/](https://www.linkedin.com/in/riyan117/)
