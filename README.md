@@ -54,6 +54,8 @@ I'm a professional QA Engineer with a passion for ensuring software quality from
   <a href="https://about.gitlab.com/learn/" target="_blank"><img src="https://img.shields.io/badge/GitLab-University%20Graduate-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab University"></a>
   <a href="https://katalon.com/academy/" target="_blank"><img src="https://img.shields.io/badge/Katalon-Academy%20Graduate-5C4B8C?style=for-the-badge&logo=katalon-studio&logoColor=white" alt="Katalon Academy"></a>
   <a href="https://testautomationu.applitools.com/" target="_blank"><img src="https://img.shields.io/badge/Test%20Automation-University-9C27B0?style=for-the-badge&logo=applitools&logoColor=white" alt="Test Automation University"></a>
+  <a href="https://edu.work/" target="_blank"><img src="https://img.shields.io/badge/Eduwork-SQA%20Graduate-28A7E1?style=for-the-badge" alt="Eduwork SQA Graduate"></a>
+  <a href="https://www.dicoding.com/" target="_blank"><img src="https://img.shields.io/badge/Dicoding-Certified-2D3E50?style=for-the-badge&logo=dicoding&logoColor=white" alt="Dicoding Certified"></a>
 </p>
 
 ---
